@@ -1,7 +1,4 @@
 # Android-Authencity-Prediction
-<p align="center"> 
-  <img src="img/android-logo-transparent-png-svg-vector-2.png" alt="Android Logo" width="80px" height="80px">
-</p>
 <h1 align="center"> Android App Malware Detection </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
