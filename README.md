@@ -2,10 +2,6 @@
 <h1 align="center"> Android App Malware Detection </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
-<p align="center"> 
-<img src="gif/android_malware_by_deiby_ybied-d3jae40.gif" alt="Animated gif Android Malware" height="382px">
-</p>
-
 <p>I have developed an android app malware prediction model in Python which classifies given Apps as malware or benign using the XGBoost Classifier.</p>
 
 <h2> :floppy_disk: Project Files Description</h2>
@@ -13,7 +9,7 @@
 <p>This Project includes 1 ipynb notebook and 1 input CSV file:</p>
 <h4>IPython Notebook:</h4>
 <ul>
-  <li><b>TEAM_REALITY_ANDROID_APP_MALWARE_PREDICTION.ipynb</b> - Final IPython Notebook with explanation of steps in markdown.</li>
+  <li><b>ANDROID_APP_MALWARE_PREDICTION_Anirudh.ipynb</b> - Final IPython Notebook with explanation of steps in markdown.</li>
   
 </ul>
 
@@ -62,7 +58,7 @@ To conclude, we were able to build a Malware App Classification Model with 89% a
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
- Nadeeha A | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+ Anirudh Upadhyay | Data Scientist 
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
@@ -70,7 +66,7 @@ To conclude, we were able to build a Malware App Classification Model with 89% a
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeeha-salam/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeeha/)
 [![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://nadeehasalam.medium.com/)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1r4EeJQC1L90OQMseyxWXhBiRyYT7Sdfb/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1r4EeJQC1L90OQ
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
